@@ -1,25 +1,17 @@
 ---
-title: "Welcome to Jekyll"
+title: "My first post"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Don´t really have anything important to say at the moment, just trying to get a first post done. 
 
+### Some of my favourite songs at the moment: 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+* She's hit - The Birthday Party 
+{% include embed.html url="https://youtu.be/L7RI-07nm8o?si=Ic9OC3SxhgXvDOdJ" %}
 
-Jekyll also offers powerful support for code snippets:
+* Brujería - Ritmos Satánicos
+{% include embed.html url="https://youtu.be/aV3dQ-JpFoY?si=AjAnOsGaJRXYNlev" %}
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+* LA 3A. De los Toquecitos - Eduardo Zurita
+{% include embed.html url="https://youtu.be/XbQAgyPL-CM?si=pwVPDIO7cDz-PhNU" %}
